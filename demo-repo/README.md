@@ -13,3 +13,4 @@ Tear down:
 # Fixed ports to 6000 and enabled push
 # Final fix: Registry on 6000, Flask on 5000
 # Fix registry address and integration port
+# Fix: Updated Registry address and bypassed Git permissions
