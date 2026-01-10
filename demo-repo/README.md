@@ -10,3 +10,4 @@ Tear down:
 ```bash
 ./demo.sh down
 ```
+# Fixed ports to 6000 and enabled push
