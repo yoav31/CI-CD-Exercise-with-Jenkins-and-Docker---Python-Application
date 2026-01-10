@@ -1,4 +1,3 @@
-
 jenkins:
   systemMessage: "Jenkins CI Demo (auto-configured via JCasC)"
   numExecutors: 2
