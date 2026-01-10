@@ -11,3 +11,4 @@ Tear down:
 ./demo.sh down
 ```
 # Fixed ports to 6000 and enabled push
+# Final fix: Registry on 6000, Flask on 5000
